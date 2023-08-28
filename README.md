@@ -1,0 +1,2 @@
+# diary
+Obsidian diary app
