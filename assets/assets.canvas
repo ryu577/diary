@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"69842989b4c5c75b","x":-288,"y":-188,"width":91,"height":50,"type":"text","text":"diary"},
+		{"id":"f2ff13c9593bcdce","x":-316,"y":-78,"width":91,"height":28,"type":"text","text":"grunt"},
+		{"id":"cb7c10c913e5aa71","x":-382,"y":-258,"width":132,"height":59,"type":"text","text":"probability"},
+		{"id":"3279d51398f5fd74","x":-432,"y":-138,"width":101,"height":43,"type":"text","text":"base"},
+		{"id":"b7e16c9efb9f6634","x":40,"y":-322,"width":102,"height":35,"color":"6","type":"text","text":"pyray"},
+		{"id":"77bcc6598934a2f4","x":171,"y":-373,"width":112,"height":50,"color":"6","type":"text","text":"daily"},
+		{"id":"0621ad6456d06dcb","x":184,"y":-271,"width":116,"height":50,"color":"6","type":"text","text":"optimizn"},
+		{"id":"912c613a35791132","x":20,"y":-225,"width":122,"height":50,"color":"6","type":"text","text":"graphing"}
+	],
+	"edges":[]
+}
